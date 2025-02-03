@@ -1,0 +1,31 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: aqua;
+
+}
+.fullcontainer{
+    margin-left: 130px;
+    width: 1180px ;
+    background-color:#fffff;
+
+}
+
+.categorybrands{
+    width: 1180px;
+    display: flex;
+
+
+}
+.categorysection{
+    width: 400px;
+    background-color: rgb(184, 11, 11);
+}
+.itemlest{
+    width: 780px;
+    background-color: antiquewhite;
+}
